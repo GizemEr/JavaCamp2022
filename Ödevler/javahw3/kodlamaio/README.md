@@ -10,4 +10,4 @@ Kurs ismi tekrar edemez
 Kategori ismi tekrar edemez
 Bir kursun fiyatı 0 dan küçük olamaz
 
-image.png
+
