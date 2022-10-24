@@ -10,4 +10,5 @@ Kurs ismi tekrar edemez
 Kategori ismi tekrar edemez
 Bir kursun fiyatı 0 dan küçük olamaz
 
-image.png
+![image](https://user-images.githubusercontent.com/58132706/197603754-76a1c924-e602-4507-a7c7-be9667fbcb83.png)
+
