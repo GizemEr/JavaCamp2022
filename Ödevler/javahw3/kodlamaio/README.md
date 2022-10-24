@@ -10,8 +10,5 @@ Kurs ismi tekrar edemez
 Kategori ismi tekrar edemez
 Bir kursun fiyatı 0 dan küçük olamaz
 
-<<<<<<< HEAD
-=======
-![image](https://user-images.githubusercontent.com/58132706/197603754-76a1c924-e602-4507-a7c7-be9667fbcb83.png)
->>>>>>> f9a933d94b34846b9ea15376516a0c126d522744
+![image](https://user-images.githubusercontent.com/58132706/197604568-b0ccd5c9-c424-4e8d-9deb-8463a77c87f5.png)
 
