@@ -8,7 +8,7 @@ Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebil
 
 İsimler tekrar edemez.
 
-Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz)
+Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz.)
 
 /api/programminglanguages/update : PUT - Güncelleme
 
